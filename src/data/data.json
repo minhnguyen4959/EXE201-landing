@@ -4,18 +4,18 @@
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Công ty được phát triển bởi những sinh viên trẻ trung năng động của trường Đại Học FPT. Hướng đến một môi trường sống sạch sẽ, an toàn, thân thiện với thiên nhiên, chúng tôi sẽ đem đến cho các bạn dịch vụ dọn dẹp sử dụng những sản phẩm từ thiên nhiên. Đảm bảo an toàn cho sức khoẻ của trẻ nhỏ, không sợ kích ứng. ",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Sẵn sàng phục vụ 24/7 không kể ngày lễ.",
+      "Sử dụng những sản phẩm từ thiên nhiên an toàn cho ngôi nahf của bạn.",
+      "Đội ngũ nhân viên trẻ trung, năng động."
+      
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Giá cả hợp lý",
+      "Đa dạng các dịch vụ từ lớn đến nhỏ",
+      "Đảm bảo chất lượng dịch vụ."
+      
     ]
   },
   "Gallery": [
@@ -152,9 +152,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Khu Giáo dục và Đào tạo, Hoa Lac Hi-tech Park, Km29 Đại lộ Thăng Long, Thạch Hoà, Thạch Thất, Hà Nội",
+    "phone": "+84 904521821",
+    "email": "housekeepingservice@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
