@@ -310,14 +310,14 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
-  color: #fff;
+  background: linear-gradient(to right, #72b8e7 0%, #e4ab64 100%);
+  color:#000;
 }
 #services .service-desc {
   margin: 10px 10px 20px;
 }
 #services h2 {
-  color: #fff;
+  color: #000;
 }
 #services .section-title h2::after {
   position: absolute;
@@ -336,16 +336,16 @@ header .intro-text {
   padding: 40px 0;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   border-radius: 50%;
-  color: #fff;
+  color:#000;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 #services h3 {
   font-weight: 500;
   padding: 5px 0;
-  color: #fff;
+  color: #000;
 }
 #services p {
-  color: rgba(255, 255, 255, 0.75);
+  color: #000);
 }
 #services .service-desc {
   margin-bottom: 40px;
@@ -460,8 +460,8 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
-  color: rgba(255, 255, 255, 0.75);
+  background: linear-gradient(to right, #72b8e7 0%, #e4ab64 100%);
+  color: rgb( 0, 0, 0);
 }
 #contact .section-title {
   margin-bottom: 40px;
@@ -470,7 +470,7 @@ header .intro-text {
   font-size: 16px;
 }
 #contact h2 {
-  color: #fff;
+  color: #000;
   margin-top: 10px;
   margin-bottom: 15px;
   padding-bottom: 15px;
@@ -485,7 +485,7 @@ header .intro-text {
   left: 30px;
 }
 #contact h3 {
-  color: #fff;
+  color: #000;
   margin-top: 80px;
   margin-bottom: 25px;
   padding-bottom: 20px;
@@ -552,7 +552,7 @@ label {
   margin: 20px 0;
 }
 #contact .contact-item span {
-  color: rgba(255, 255, 255, 1);
+  color: #000;
   margin-bottom: 10px;
   display: block;
 }
@@ -574,14 +574,14 @@ label {
   width: 48px;
   height: 48px;
   padding: 12px 0;
-  border: 2px solid #fff;
-  color: #fff;
+  border: 2px solid #000;
+  color: #000;
   border-radius: 50%;
   transition: all 0.3s;
 }
 #contact .social i.fa:hover {
   color: #608dfd;
-  background: #fff;
+  background: #000;
 }
 /* Footer Section*/
 #footer {

@@ -1,25 +1,18 @@
 import React from "react";
+import image from "../images/pngegg.png"
 
 export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
-        <div className="navbar-header">
-          <button
-            type="button"
-            className="navbar-toggle collapsed"
-            data-toggle="collapse"
-            data-target="#bs-example-navbar-collapse-1"
-          >
-            {" "}
-            <span className="sr-only">Toggle navigation</span>{" "}
-            <span className="icon-bar"></span>{" "}
-            <span className="icon-bar"></span>{" "}
-            <span className="icon-bar"></span>{" "}
-          </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
-          </a>{" "}
+        
+      
+        <div className=" navbar-header" style={{display:"flex"}}>
+        <div className="col-4"><img src={image} className="img-responsive" alt=""  style={{height:"50px"}}/></div>
+        <div className="col-8" style={{marginLeft:"5px"}}><a className="navbar-brand page-scroll " href="#page-top">
+           HOUSE KEEPING
+          </a></div>
+          
         </div>
 
         <div
@@ -29,37 +22,28 @@ export const Navigation = (props) => {
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#features" className="page-scroll">
-                Features
-              </a>
-            </li>
-            <li>
-              <a href="#about" className="page-scroll">
-                About
+                GIỚI THIỆU
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                Services
+                DỊCH VỤ DỌN DẸP
               </a>
             </li>
+            
             <li>
+              <a href="#about" className="page-scroll">
+                ĐỘI NGŨ
+              </a>
+            </li>
+            {/* <li>
               <a href="#portfolio" className="page-scroll">
-                Gallery
+                CAM KẾT DỊCH VỤ 
               </a>
-            </li>
-            <li>
-              <a href="#testimonials" className="page-scroll">
-                Testimonials
-              </a>
-            </li>
-            <li>
-              <a href="#team" className="page-scroll">
-                Team
-              </a>
-            </li>
+            </li> */}
             <li>
               <a href="#contact" className="page-scroll">
-                Contact
+                LIÊN HỆ
               </a>
             </li>
           </ul>
