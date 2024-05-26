@@ -128,7 +128,7 @@ export const Contact = (props) => {
                 <span>
                 <i className="fa fa-facebook"></i> Facebook:
                 </span>{" "}
-               fb.com
+                https://www.facebook.com/profile.php?id=61559728965006&mibextid=ZbWKwL
               </p>
             </div>
              
