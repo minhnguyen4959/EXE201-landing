@@ -1,5 +1,7 @@
 import React from "react";
-import image from "../images/pngegg.png"
+// import image from "../images/pngegg.png"
+// import image from "../images/logo.jpg"
+import image from "../images/logo-removebg-preview.png"
 
 export const Navigation = (props) => {
   return (
@@ -8,7 +10,7 @@ export const Navigation = (props) => {
         
       
         <div className=" navbar-header" style={{display:"flex"}}>
-        <div className="col-4"><img src={image} className="img-responsive" alt=""  style={{height:"50px"}}/></div>
+        <div className="col-4" style={{borderRadius: "3px"}}><img src={image} className="img-responsive" alt=""  style={{height:"50px", borderRadius: "32px"}}/></div>
         <div className="col-8" style={{marginLeft:"5px"}}><a className="navbar-brand page-scroll " href="#page-top">
            HOUSE KEEPING
           </a></div>
