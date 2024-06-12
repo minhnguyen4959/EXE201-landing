@@ -1,6 +1,7 @@
 import React from "react";
 // import image from "../images/z4734841882500_5e1213ce7e03aea3a0435c475b9124eb.jpg"
-import image from "../images/bang-gia.jpg"
+// import image from "../images/bang-gia.jpg"
+import image from "../images/bang-gia-moi-nhat.jpg"
 
 export const Services = (props) => {
   return (
